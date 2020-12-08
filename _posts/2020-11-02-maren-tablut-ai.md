@@ -45,7 +45,7 @@ The adopted strategy consists in the use of the **Min-Max** algorithm with **alp
 
 
 ```java
-// pseudocode of minmax algorithm
+// pseudocode of minmax algorithm with alpha-beta pruning
 function alphabeta(node, depth, α, β, maximizingPlayer) is
 
 if depth == 0 or node is a terminal node then  
