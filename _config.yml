@@ -113,3 +113,5 @@ useful links: [
         #href: "https://xuechundesign.github.io"
     }
 ]
+
+exclude: [vendor]
