@@ -5,7 +5,7 @@ header-img: img/forest.jpg
 email: lucamarini1998@gmail.com
 # description: "关于程序与设计、黑客与画家 | 黄玄，weiiii | 这里是 黄玄 的个人博客，与你一起发现更大的世界。"
 keyword: "黄玄, Marini黄玄, Luca Marini, 鬼栈, lucamarini22, @lucamarini22, 黄玄的博客, Luca Marini Blog, 博客, 个人网站, 互联网, Forlimpopoli, , 前端, 设计"
-# url: "https://huangxuan.me"              # your host, for absolute URL
+# url: "https://lucamarini22.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
