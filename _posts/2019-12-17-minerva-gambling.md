@@ -47,7 +47,7 @@ It consists of assigning a greater probability to one event rather than another 
 
 ## Data in Italy
 
-In Italy, in 2017, 20.4 billion Euros were SPENT on gambling.
+In Italy, in 2017, 20.4 billion Euros were spent on gambling.
 
 In 2016, an average of 385 Euros per capita was lost by the adult population.
 
@@ -60,3 +60,19 @@ In 2016, an average of 385 Euros per capita was lost by the adult population.
 - A long-term investment in gambling leads to a loss of money in a percentage equal to: `1 - payout`
 
 - There are some fallacious reasoning that leads us to overestimate the probability of a certain event happening
+
+### Credits
+
+You can find Minerva on:
+![Minerva](https://noidiminerva.it/it/)
+
+![Facebook - Minerva](https://www.facebook.com/noidiminerva)
+
+
+![Instagram - Minerva](https://www.instagram.com/minerva_divulgazione/)
+
+### Speakers
+
+- Roverelli Daniele
+- Marini Luca
+- Bertozzi Eugenio
