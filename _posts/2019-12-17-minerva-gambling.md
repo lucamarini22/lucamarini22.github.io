@@ -15,14 +15,11 @@ Gambling has existed for millennia and has taken on many forms. Humankind has al
 But what are the real probabilities of winning?
 
 
-## Fair play vs unfair play
+## Fair vs unfair games
 
 A game is defined as **fair** when the money spent to play it is then all redistributed to the players in the form of prize pools.
 
 If, on the other hand, part of the money collected is withheld by the game organizer, it will be referred to as an **unfair** game.
-
-
-## Fair play vs unfair play
 
 
 
