@@ -10,14 +10,19 @@ tags:
   - Minerva
 ---
 
-## What is Tablut?
+Gambling has existed for millennia and has taken on many forms. Humankind has always been accompanied by dices, first as predictors of natural events and the will of the gods, then as a  recreational game.
 
-Tablut is an ancient Northen Europe **board game** in which two players (white and black, respectively Swedes and Muscovites) play against each other on a 9x9 board.
-
-- **Swedes**' goal: make the king reaching one of the escapes
-- **Muscovites**' goal: capture the king 
+But what are the real probabilities of winning?
 
 
+## Fair play vs unfair play
+
+A game is defined as **fair** when the money spent to play it is then all redistributed to the players in the form of prize pools.
+
+If, on the other hand, part of the money collected is withheld by the game organizer, it will be referred to as an **unfair** game.
+
+
+## Fair play vs unfair play
 
 ![](/img/in-post/board_tablut.png)
 
@@ -27,83 +32,40 @@ The above image shows the **initial configuration** of the board, where:
 - the orange square is the castle
 
 
-## Rules
+## Coin flipping
 
-The **main rules** of Tablut are the following:
-- any piece can move horizontally or verically, but not diagonally
-- no piece can ever pass over another piece in its path
-- a piece is captured if it is actively sorrounded by two opponent pieces in the same row or column (not diagonal)
-- if the king is near the castle, it has to be sorrounded by 3 enemies, while if it is inside the castle it has to be sorrounded by 4 Muscovites 
-
-For further information see [here](https://en.wikipedia.org/wiki/Tafl_games).
+To better understand the fairness of a game, we can take the classic Head or Tails game as an example.
+We, therefore, decide to bet one euro each on a single toss.
 
 
 
-## Search Strategy
-
-The adopted strategy consists in the use of the **Min-Max** algorithm with **alpha-beta pruning**.
 
 
-```java
-// pseudocode of minmax algorithm with alpha-beta pruning
-function alphabeta(node, depth, α, β, maximizingPlayer) is
-
-if depth == 0 or node is a terminal node then  
-  return evaluation of node  
-  
-if MaxPlayer then      // Max Player  
-  value = - inf     
-  for each child of node do  
-    value = max(value, alphabeta(child, depth - 1, α, β, false))
-    α = max(α, value)
-    if α >= β then
-      break // β cutoff
-  return value  
-  
-else                   // Min player  
-  value = + inf
-  for each child of node do
-    value = min(value, alphabeta(child, depth - 1, α, β, true))
-    β = min(β, value)
-    if β <= α then
-      break // α cutoff
-  return value  
-```
-
-## Evaluation function
-
-#### What is an evaluation function?
-
-An evaluation function (also called **heuristic**) is a function that tells you how good or bad a particular move is, and it selects the most promising node among the available nodes. The goal of the evaluation function is to reduce either the dimension of the search space and the time spent by exploring it. For this reason, the computation of the heuristic should not last longer than the exploration of the nodes that are not considered anymore. Therefore, it is important to establish a trade-off between **complexity** and **efficiency**. 
-
-I used similar (but opposite) heuristics for either Swedes and Muscovites.
-
-#### Swedes' evaluation function:
-
-- **Positive weights**:
-	- white victory
-	- number of white pawns
-	- number of king's free paths to escapes
-- **Negative weights**:
-	- number of black pawns
-	- number of black pawns that are adjacent to the king
-	- minimum king's Manhattan distance to escape	
+## Super-jackpot lottery
 
 
+## Misconceptions and common mistakes
 
-#### Muscovites' evaluation function:
+### Error of representativity
 
-- **Positive weights**:
-	- black victory
-	- number of black pawns
-	- number of black pawns that are adjacent to the king
-	- minimum king's Manhattan distance to escape	
-- **Negative weights**:
-	- white victory
-	- number of white pawns
-	- number of king's free paths to escapes
+It consists of assigning a greater probability to an event rather than to another because it seems to better represent the set of possible outcomes, even if the outcomes are equiprobable.
 
+### Error of recency
 
-## Link to my project
+It consists of assigning a greater probability to one event rather than another based on information obtained from past experiments, even if the results are independent of previous ones.
 
-You can find my project [here](https://github.com/lucamarini22/TablutAI).
+## Data in Italy
+
+In Italy, in 2017, 20.4 billion Euros were SPENT on gambling.
+
+In 2016, an average of 385 Euros per capita was lost by the adult population.
+
+53.8% of the money is spent on appliances, such as AWP, VLT, and others.
+
+## Conclusions
+
+- The dealer always wins, precisely by the very nature of games of chance (unfairness)
+
+- A long-term investment in gambling leads to a loss of money in a percentage equal to: `1 - payout`
+
+- There are some fallacious reasoning that leads us to overestimate the probability of a certain event happening
