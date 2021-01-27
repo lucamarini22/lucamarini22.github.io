@@ -24,10 +24,6 @@ If, on the other hand, part of the money collected is withheld by the game organ
 
 ## Fair play vs unfair play
 
-The above image shows the **initial configuration** of the board, where:
-- light blue squares are escapes
-- gray squares are camps
-- the orange square is the castle
 
 
 ## Coin flipping
