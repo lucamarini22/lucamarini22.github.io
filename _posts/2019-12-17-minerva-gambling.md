@@ -65,13 +65,13 @@ In 2016, an average of 385 Euros per capita was lost by the adult population.
 
 You can find Minerva on:
 
-[Minerva](https://noidiminerva.it/it/)
+- [Website](https://noidiminerva.it/it/)
 
-[Facebook - Minerva](https://www.facebook.com/noidiminerva)
+- [Facebook](https://www.facebook.com/noidiminerva)
 
-[Instagram - Minerva](https://www.instagram.com/minerva_divulgazione/)
+- [Instagram](https://www.instagram.com/minerva_divulgazione/)
 
-[YouTube - Minerva](
+- [YouTube](
 https://www.youtube.com/channel/UCuWHvsThj9iWTt8rI7_XfdA/videos)
 
 ### Speakers
