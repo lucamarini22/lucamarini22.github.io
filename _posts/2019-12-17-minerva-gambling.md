@@ -35,7 +35,7 @@ If, on the other hand, part of the money collected is withheld by the game organ
 To better understand the fairness of a game, we can take the classic Head or Tails game as an example.
 We, therefore, decide to bet one euro each on a single toss.
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=%20%5Cfrac%7Bfavourable%20outcomes%7D%7Bunfavourable%20outcomes%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt=" \frac{favourable outcomes}{unfavourable outcomes} " width="210" height="47" />
+![](http://www.sciweavers.org/tex2img.php?eq=%20%5Cfrac%7Bfavourable%20outcomes%7D%7Bunfavourable%20outcomes%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0[/img])
 
 
 
