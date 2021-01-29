@@ -15,6 +15,15 @@ Gambling has existed for millennia and has taken on many forms. Humankind has al
 
 >**But what are the real probabilities of winning?**
 
+## Definition of Probability
+
+Probability is the branch of mathematics concerning numerical descriptions of how likely an event is to occur, or how likely it is that a proposition is true. The probability of an event is a number between 0 and 1, where, roughly speaking, **0** indicates **impossibility** of the event and **1** indicates **certainty**. The higher the probability of an event, the more likely it is that the event will occur. In particular, the probability of an event is computed as the ratio of favourable to unfavourable outcomes.
+
+  favourable outcomes  
+ --------------------- 
+ unfavourable outcomes 
+
+
 
 ## Fair vs unfair games
 
