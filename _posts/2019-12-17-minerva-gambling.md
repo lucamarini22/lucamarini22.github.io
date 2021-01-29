@@ -10,9 +10,12 @@ tags:
   - Minerva
 ---
 
+![](/img/in-post/board_tablut.png)
+
+
 Gambling has existed for millennia and has taken on many forms. Humankind has always been accompanied by dices, first as predictors of natural events and the will of the gods, then as a  recreational game.
 
-But what are the real probabilities of winning?
+>But what are the real probabilities of winning?
 
 
 ## Fair vs unfair games
@@ -79,3 +82,7 @@ https://www.youtube.com/channel/UCuWHvsThj9iWTt8rI7_XfdA/videos)
 - Roverelli Daniele
 - Marini Luca
 - Bertozzi Eugenio
+
+### References
+
+[1]
