@@ -17,11 +17,8 @@ Gambling has existed for millennia and has taken on many forms. Humankind has al
 
 ## Definition of Probability
 
-Probability is the branch of mathematics concerning numerical descriptions of how likely an event is to occur, or how likely it is that a proposition is true. The probability of an event is a number between 0 and 1, where, roughly speaking, **0** indicates **impossibility** of the event and **1** indicates **certainty**. The higher the probability of an event, the more likely it is that the event will occur. In particular, the probability of an event is computed as the ratio of favourable to unfavourable outcomes.
+Probability is the branch of mathematics concerning numerical descriptions of how likely an event is to occur, or how likely it is that a proposition is true. The probability of an event is a number between 0 and 1. The number **0** indicates **impossibility** of the event, while **1** indicates **certainty**. The higher the probability of an event, the more likely it is that the event will occur. In particular, the probability of an event is computed as the ratio of favorable to unfavorable outcomes.
 
-  favourable outcomes  
- --------------------- 
- unfavourable outcomes 
 
 
 
@@ -38,7 +35,7 @@ If, on the other hand, part of the money collected is withheld by the game organ
 To better understand the fairness of a game, we can take the classic Head or Tails game as an example.
 We, therefore, decide to bet one euro each on a single toss.
 
-
+<img src="http://www.sciweavers.org/tex2img.php?eq=%20%5Cfrac%7Bfavourable%20outcomes%7D%7Bunfavourable%20outcomes%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt=" \frac{favourable outcomes}{unfavourable outcomes} " width="210" height="47" />
 
 
 
