@@ -42,12 +42,12 @@ fair, while if its payout is lower than 1, then it is an unfair game.
 The Equity Index is defined as the ratio of the Expected Value to the price of a single bet.
 
 
-#### Example 1: Coin flipping
+[comment]: <> (#### Example 1: Coin flipping)
 
-To better understand the fairness of a game, we can take the classic Head or Tails game as an example.
-Let's suppose two people decide to bet one euro each on a single toss.
+[comment]: <> (To better understand the fairness of a game, we can take the classic Head or Tails game as an example.)
+[comment]: <> (Let's suppose two people decide to bet one euro each on a single toss.)
 
-#### Example 2: A famous Italian game
+#### Example: A famous Italian game
 
 Let's analyze the probabilities of the winning prizes of an Italian famous "*scratch and win*" game.
 
@@ -66,11 +66,11 @@ Let's analyze the probabilities of the winning prizes of an Italian famous "*scr
 ![Visualization of the above probabilities](/img/in-post/minerva_gambling/graph.png)
 
 Note: The probability of winning 10'000
-euro in the graph has been multiplied by
+euro (black fraction) was so small in the pie chart that it has been multiplied by
 100 to be able to see it.
 
 
-## Super-jackpot lottery
+[comment]: <> (## Super-jackpot lottery)
 
 
 ## Misconceptions and common mistakes
