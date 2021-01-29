@@ -79,13 +79,13 @@ euro (black fraction) was so small in the pie chart that it has been multiplied 
 
 It consists of assigning a greater probability to an event rather than to another because it seems to better represent the set of possible outcomes, even if the outcomes are equiprobable.
 
-![](/img/in-post/minerva_gambling/representativity.png =75x)
+![](/img/in-post/minerva_gambling/representativity.png =100x)
 
 ### Error of recency
 
 It consists of assigning a greater probability to one event rather than another based on information obtained from past experiments, even if the results are independent of previous ones.
 
-![](/img/in-post/minerva_gambling/recency.png =75x)
+![](/img/in-post/minerva_gambling/recency.png =100x)
 
 
 ## Data in Italy
