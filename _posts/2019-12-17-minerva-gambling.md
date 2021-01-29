@@ -47,7 +47,30 @@ The Equity Index is defined as the ratio of the Expected Value to the price of a
 To better understand the fairness of a game, we can take the classic Head or Tails game as an example.
 Let's suppose two people decide to bet one euro each on a single toss.
 
-### Example 2: A famous Italian game
+#### Example 2: A famous Italian game
+
+Let's analyze the probabilities of the winning prizes of an Italian famous "*scratch and win*" game.
+
+- Probability of spending 1 € buying a ticket:
+	- P = 100% -> always
+
+- Probability of making up for the amount spent:
+	- P = 14% -> approximately 1 out of 6
+
+- Probability of winning 2 or 5 euros:
+	- P = 9% -> approximately 1 out of 10
+
+- Probability of winning € 10,000:
+	- P = 0.000032% -> 1 out of 3'035'294
+
+- Probability of losing the euro:
+	- P = 74.5% -> 3 out of 4
+
+![Visualization of the above probabilities](/img/in-post/minerva_gambling/graph.PNG)
+
+Note: The probability of winning 10'000
+euro in the graph has been multiplied by
+100 to be able to see it.
 
 
 ## Super-jackpot lottery
@@ -59,9 +82,14 @@ Let's suppose two people decide to bet one euro each on a single toss.
 
 It consists of assigning a greater probability to an event rather than to another because it seems to better represent the set of possible outcomes, even if the outcomes are equiprobable.
 
+![](/img/in-post/minerva_gambling/representativity.png)
+
 ### Error of recency
 
 It consists of assigning a greater probability to one event rather than another based on information obtained from past experiments, even if the results are independent of previous ones.
+
+![](/img/in-post/minerva_gambling/recency.png)
+
 
 ## Data in Italy
 
