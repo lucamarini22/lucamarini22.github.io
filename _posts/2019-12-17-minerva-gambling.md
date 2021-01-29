@@ -51,10 +51,7 @@ Let's suppose two people decide to bet one euro each on a single toss.
 
 Let's analyze the probabilities of the winning prizes of an Italian famous "*scratch and win*" game.
 
-- Probability of spending 1 € buying a ticket:
-	- P = 100% -> always
-
-- Probability of making up for the amount spent:
+- Probability of recover the amount spent:
 	- P = 14% -> approximately 1 out of 6
 
 - Probability of winning 2 or 5 euros:
@@ -66,7 +63,7 @@ Let's analyze the probabilities of the winning prizes of an Italian famous "*scr
 - Probability of losing the euro:
 	- P = 74.5% -> 3 out of 4
 
-![Visualization of the above probabilities](/img/in-post/minerva_gambling/graph.PNG)
+![Visualization of the above probabilities](/img/in-post/minerva_gambling/graph.png)
 
 Note: The probability of winning 10'000
 euro in the graph has been multiplied by
