@@ -102,18 +102,18 @@ In Italy, in 2017, 20.4 billion Euros were spent on gambling. In 2016, an averag
 
 
 
-### Speakers
+#### Speakers
 
 - Roverelli Daniele
 - Marini Luca
 - Bertozzi Eugenio
 
-### References
+#### References
 
 [1] ADM - Agenzia delle dogane e dei Monopoli. [
 Il gioco legale in Italia - Agenzia delle dogane e dei Monopoli](https://www.adm.gov.it/portale/documents/20182/1098450/Serie+storica+nazionale+2006-2016.pdf/134a97f0-810f-4608-9947-4a09926a025d)
 
-### Credits
+#### Credits
 
 You can find Minerva on:
 
